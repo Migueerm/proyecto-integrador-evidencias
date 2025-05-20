@@ -26,3 +26,9 @@ Aplicación web que muestra productos desde una API generadora de datos random, 
    ```bash
    git clone https://github.com/Migueerm/proyecto-integrador-evidencias
    cd tu-repositorio
+
+## 📷 Capturas de Pantallas
+  1. **Estadisticas y menu**
+    ![Estadisticasymenu](public/estadisticasymenu.png "1")
+  2. **Producto**
+    ![Producto](public/producto.png "2")
