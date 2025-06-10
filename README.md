@@ -40,13 +40,20 @@ Aplicación web que muestra productos desde la API **DummyJSON**, con **filtros 
    git clone https://github.com/Migueerm/proyecto-integrador-evidencias
    cd proyecto-integrador-evidencias
 
+## 🚀 Instalación y Uso
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/Migueerm/proyecto-integrador-evidencias
+   cd proyecto-integrador-evidencias
+   ```
 2. **Instala dependencias**:
-  ```bash
-  npm install
-
+   ```bash
+   npm install
+   ```
 3. **Inicia el proyecto**:
-  ```bash
-  npm run dev
+   ```bash
+   npm run dev
+   ```
 
 ## 📷 Capturas de Pantalla
 
